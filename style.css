@@ -142,7 +142,7 @@ main {
 }
 
 footer {
-  padding: 2em 3em;
+  padding: 2em 0;
   background-color: var(--seconday-clr);
 }
 
